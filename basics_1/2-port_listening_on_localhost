@@ -1,0 +1,9 @@
+#!/bin/bash
+# This script listens on port 98 on localhost.
+
+# Listen on TCP port 98 for incoming connections
+# -l: listen mode
+# -p: specify port
+# -v: verbose mode (to show details)
+nc -lvp 98
+
