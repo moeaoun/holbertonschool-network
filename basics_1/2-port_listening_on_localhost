@@ -1,5 +1,5 @@
-#!/bin/bash
-# This script listens on port 98 on localhost.
+#!/usr/bin/env bash
+# This script listens on port 98 on localhost for incoming TCP connections.
 
 # Listen on TCP port 98 for incoming connections
 # -l: listen mode
